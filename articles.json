@@ -1,0 +1,51 @@
+[{
+	"title":"Basic Installation",
+	"id":"installation_basic",
+	"price":1000,
+	"description":"De quoi démarrer dans le stockage AE.<br/>Il vous sera fourni:<br/>- ME Drive<br/>- 16K Storage Component<br/>- ME Crafting Terminal<br/>- Energy Acceptator<br/>- 10 x ME Glass"
+},{
+	"title":"ME Drive",
+	"id":"me_drive",
+	"price":148,
+	"description":"Permet le stockage des espaces de stockage."
+},{
+	"title":"ME Import Bus",
+	"id":"me_import_bus",
+	"price":86,
+	"description":"Agit comme un hopper, il absorbe les item contenue dans vos coffres, mais aussi la plupart des machines, pour l'ajouter a votre stockage AE."
+},{
+	"title":"ME Export Bus",
+	"id":"me_export_bus",
+	"price":84,
+	"description":"Agit comme un hopper, il extrait les items de votre AE pour les envoyé dans vos coffres, mais aussi la plupart des machines."
+},{
+	"title":"1k ME Storage Cell",
+	"id":"1k_storage_cell",
+	"price":93,
+	"description":"Permet de stocker 64 stacks de 63 items différents."
+},{
+	"title":"4k ME Storage Cell",
+	"id":"4k_storage_cell",
+	"price":226,
+	"description":"Permet de stocker 260 stacks de 63 items différents."
+},{
+	"title":"16k ME Storage Cell",
+	"id":"16k_storage_cell",
+	"price":625,
+	"description":"Permet de stocker 1040 stack de 63 items différents."
+},{
+	"title":"64k ME Storage Cell",
+	"id":"64k_storage_cell",
+	"price":1822,
+	"description":"Permet de stocker 4160 stack de 63 items différents."
+},{
+	"title":"ME Terminal",
+	"id":"me_terminal",
+	"price":167,
+	"description":"Un terminal qui affiche tous vos items stockere."
+},{
+	"title":"ME Crafting Terminal",
+	"id":"me_crafting_terminal",
+	"price":186,
+	"description":"Un terminal qui affiche tous vos items stocker ainsi qu'une table de craft dynamique."
+}]
