@@ -16,6 +16,10 @@ sgMail.setApiKey(process.env.SG_TOKEN)
 // App
 const app = express();
 
+app.use(express.static("www", {
+    extensions: ['html']
+}));
+
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }))
  
