@@ -96,5 +96,6 @@ function cartToDetails(cart){
 	return details+"</ul><br/><strong>Total : "+total+"$</strong>";
 }
 
-app.listen(PORT, HOST);
-console.log(`Running on http://${HOST}:${PORT}`);
+//app.listen(PORT, HOST);
+//console.log(`Running on http://${HOST}:${PORT}`);
+exports.main = app;
